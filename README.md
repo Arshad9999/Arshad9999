@@ -1,4 +1,4 @@
-### Hi there, i'm Arshad this side 👋
+### Hi there, I'm Arshad this side 👋
 
 <!--
 **Arshad9999/Arshad9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
