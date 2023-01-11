@@ -1,17 +1,13 @@
-<div align="left">
+<div align="right">
     <img src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
 </div>
----
-
-# **Hi there👋👋, I am Mohammad Arshad Siddiqui**
-
----
-
+    
+## Hi there👋👋, I am Mohammad Arshad Siddiqui
 <!--
 **Arshad9999/Arshad9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+----
 - 🔭 I’m currently working on ... Artificial Intelligence related projects
 - 🌱 I’m currently learning ... Artificial Intelligence, Machine Learning, Deep Learning, Data Science...
 - 👯 I’m looking to collaborate on ... open source
@@ -21,15 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-
 ## :computer:  My GitHub Stats
+<div align="left">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=github$&layout=compact&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 <div align="center">
-    <img width="500em" src="https://streak-stats.demolab.com/?user=Arshad9999&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
+    <img width="500em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
+</div>
+<div align="right">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=github&layout=compact">
 </div>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=gotham&layout=compact)-->
-[![TheTablaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats)     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arshad9999&theme=gotham)](https://git.io/streak-stats)
 
 
 ---
@@ -63,9 +61,7 @@ Here are some ideas to get you started:
       </tr>
       </tr>
      </table>
-    
-    
-      
+     ---
      <table>
        <thead>
        <tr>
@@ -127,6 +123,7 @@ Here are some ideas to get you started:
         <td align="center" width=110>Yarn</td>
       </tr>
     </table>
+    ---
     <table>
         <thead>
         <tr>
@@ -152,5 +149,7 @@ Here are some ideas to get you started:
         <td align="center" width=110>ChromeOS</td>
       </tr>
     </table>
+    ---
     
 </div>
+---
