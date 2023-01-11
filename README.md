@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 -->
 ## :computer:  My GitHub Stats
 <div align="left">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=gotham&layout=compact&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=github&layout=compact&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 <div align="center">
     <img width="500em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=gotham&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
 </div>
 <div align="right">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=gotham&layout=compact">
+    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=github&layout=compact">
 </div>
 
 
