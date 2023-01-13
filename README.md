@@ -18,16 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :computer:  My GitHub Stats
-![image](https://user-images.githubusercontent.com/93732499/212393520-500aa971-83dd-4dae-9206-80ddfe29fe65.png)
-
-
-<div align="center">
+<div align="left">
     <img width="400em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
 </div>
+[![TheTablaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="right">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=github&layout=compact">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=gotham&layout=compact)
+
 
 
 
