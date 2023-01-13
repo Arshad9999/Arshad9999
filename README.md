@@ -1,5 +1,5 @@
-<div align="center">
-    <img width="600em" src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
 </div>
     
 ## Hi there👋👋, I am Mohammad Arshad Siddiqui
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :computer:  My GitHub Stats
-<div align="left">
-    <img width="400em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
+<div align="center">
+    <img width="600em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
 </div>
 
 ---
