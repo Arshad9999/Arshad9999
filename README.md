@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :computer:  My GitHub Stats
-<div align="left">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=github&layout=compact&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats">
-</div>
+
 
 <div align="center">
     <img width="400em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
