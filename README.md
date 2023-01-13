@@ -1,5 +1,5 @@
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
+<div align="center">
+    <img width="600em" src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
 </div>
     
 ## Hi there👋👋, I am Mohammad Arshad Siddiqui
