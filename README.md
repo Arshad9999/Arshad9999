@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :computer:  My GitHub Stats
-
-[![TheTablaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad9999&?count_private=true&theme=gotham&show_icons=true&include_all_commits=yes)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![image](https://user-images.githubusercontent.com/93732499/212393520-500aa971-83dd-4dae-9206-80ddfe29fe65.png)
 
 
