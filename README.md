@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-<p width=30% margin=10px align="left">
+<p width=500em margin=10px align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshad9999&theme=flag-india&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Arshad9999&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true" align="right"/>
 </p>
