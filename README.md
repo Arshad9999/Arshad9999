@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img width="600em" src="https://streak-stats.demolab.com/?user=Arshad9999&theme=github&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
 </div>
 
-<p width=30% margin=10px align="center">
+<p width=80% margin=10px align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
