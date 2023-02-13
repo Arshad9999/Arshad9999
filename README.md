@@ -1,6 +1,4 @@
 
-[![](https://visitcount.itsvg.in/api?id=Arshad9999&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div align="right">
     <img src="https://visitcount.itsvg.in/api?id=Arshad9999&icon=0&color=0" />
     <img src="https://komarev.com/ghpvc/?username=Arshad9999&style=for-the-badge">
@@ -163,7 +161,4 @@ Here are some ideas to get you started:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Arshad9999&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 
