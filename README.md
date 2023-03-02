@@ -76,7 +76,9 @@ I'm curently interested into everything that is around data science models: MLop
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad9999&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Arshad9999&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Arshad9999)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arshad9999&label=Profile%20views&color=0e75b6&style=flat" alt="Arshad9999" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Arshad9999?label=Followers&style=social"> •   
