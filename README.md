@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Arshad9999/material/1677821778846.jpeg)](https://github.com/Arshad9999)
 
 <!--
 **Arshad9999/Arshad9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Devops, Kubernates and Docker**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Arshad9999/](https://github.com/Arshad9999/)<!--[https://arshadportfolio.netlify.app/](https://arshadportfolio.netlify.app/)-->
+
+- 💬 Ask me about **ML, AI, React, Typescript, Javascript, Java, Firebase, MongoDB, Nextjs**
+
+- 📫 How to reach me **arshadid135@gmail.com**
+
+- 📄 Know about my experiences [Certificates](https://drive.google.com/drive/folders/180pOga51by0oyrBU3MrCsHcXKC9auPiE)
+
 # Mohammad Arshad Siddiqui
 I'm a developer with a strong background in **MLops**, **Data Engineering**, **ML Engineering**, **time-series analysis**, **cloud architecture** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
 
