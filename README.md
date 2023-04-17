@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Arshad9999/material/1677821778846.jpeg)](https://github.com/Arshad9999)
+[![MasterHead](https://github.com/Arshad9999/Arshad9999/tree/main/material/1677821778846.jpeg)](https://github.com/Arshad9999)
 
 <!--
 **Arshad9999/Arshad9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
