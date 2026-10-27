@@ -23,7 +23,7 @@ The four React/TypeScript apps include Lovable-generated scaffolding. The Arcade
 - [LetsLearnGit](https://github.com/Arshad9999/LetsLearnGit): A Git practice repository that also contains two Java exercises.
 - [Machine-Learning](https://github.com/Arshad9999/Machine-Learning): Python lab exercises covering matrix operations, plotting, regression, classification, gradient descent, clustering, and neural-network forward propagation.
 - [OpenGL-Vth](https://github.com/Arshad9999/OpenGL-Vth): Fifteen C++ OpenGL/FreeGLUT lab exercises covering lines, letters, shapes, animation, and 3D objects.
-- [Python-Deep-Learning](https://github.com/Arshad9999/Python-Deep-Learning): Learning notes and partial Python implementations for introductory neural-network lab exercises. Some lab directories contain notes only, and LAB 03/code.py is empty.
+- [Python-Deep-Learning](https://github.com/Arshad9999/Python-Deep-Learning): Learning notes with tested XOR threshold-neuron and bipolar AND perceptron exercises; later labs remain incomplete or notes-only.
 - [PythonPlayground](https://github.com/Arshad9999/PythonPlayground): Small Python exercises for Armstrong numbers, factorials, Fibonacci sequences, prime numbers, and a notebook of printed patterns.
 - [University-Notes](https://github.com/Arshad9999/University-Notes): A small notes repository containing workshop-practices material.
 
