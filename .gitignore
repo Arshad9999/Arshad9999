@@ -1,2 +1,15 @@
 
 .DS_Store
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Local OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
