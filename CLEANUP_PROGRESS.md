@@ -77,3 +77,7 @@ No new GitHub permission is required for the work published so far. The connecte
 - [https://google-cohort2-arcade25-facilitator.vercel.app](https://google-cohort2-arcade25-facilitator.vercel.app): 200.
 
 These are HTTP reachability checks. They do not certify every feature, external service, financial claim, or model result.
+
+## Published organization
+
+The factual [repository directory](https://github.com/Arshad9999/Arshad9999/blob/main/PORTFOLIO.md), ignore rules and this progress report are on the profile repository’s main branch. The biography rewrite remains a separate review. Fork descriptions now name their upstream project and actual purpose, including reference-only profile/curriculum forks. C Foundations and JaalNetra browser titles now identify the actual projects.
