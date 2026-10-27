@@ -1,3 +1,5 @@
+> Historical first-pass baseline. [Current merged progress](https://github.com/Arshad9999/Arshad9999/blob/main/CLEANUP_PROGRESS.md) supersedes its open-PR and unresolved-dependency status.
+
 # Public GitHub repository cleanup audit
 
 Account: [Arshad9999](https://github.com/Arshad9999). Audit date: 27 October 2026.
