@@ -1,4 +1,4 @@
-# GitHub repository cleanup audit
+# Public GitHub repository cleanup audit
 
 Account: [Arshad9999](https://github.com/Arshad9999). Audit date: 27 October 2026.
 
@@ -182,3 +182,14 @@ The changes and pull requests above were published successfully. No repository w
 - [OpenGL-Vth: Validate the graphics labs on their supported toolchain](https://github.com/Arshad9999/OpenGL-Vth/issues/2)
 - [InternPeJavaDevelopment: Add the intended Java implementation or keep this explicitly a scaffold](https://github.com/Arshad9999/InternPeJavaDevelopment/issues/1)
 - [Arshad9999.github.io: Confirm the intended portfolio site source and deployment](https://github.com/Arshad9999/Arshad9999.github.io/issues/1)
+
+## Suggested profile pins
+
+The browser-control service failed while opening the pin selector, so no pins were changed. Suggested non-fork repositories to feature after reviewing their cleanup PRs:
+
+- [WealthWise India](https://github.com/Arshad9999/arshad-finance-blog-01)
+- [C Foundations](https://github.com/Arshad9999/c-foundations-2025)
+- [Pattern Recognition](https://github.com/Arshad9999/pattern_recognition)
+- [PythonPlayground](https://github.com/Arshad9999/PythonPlayground)
+
+The first three include generated scaffolding, as documented in their READMEs; the last is a collection of checked small learning exercises. The open PRs preserve the review step for code upgrades.
