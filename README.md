@@ -1,62 +1,44 @@
-<h1 align="center">Hi, I'm Arshad Siddiqui 👋</h1>
+<h1 align="center">Mohammad Arshad Siddiqui</h1>
 
 <p align="center">
-  <strong>Computer Science Postgraduate · AI &amp; ML Enthusiast · Developer</strong>
+  M.Tech Computer Science &amp; Engineering student · Full-Stack Web Developer · Applied machine learning
 </p>
 
 <p align="center">
-  <a href="https://arshad9999.github.io/arshad-professional/">🌐 Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/arshad-siddiqui-284048225/">💼 LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:arshadid135@gmail.com">📧 Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Arshad9999?tab=repositories">📂 Repositories</a>
+  <a href="https://arshad9999.github.io/my-portfolio-site/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/md-arshad-siddiqui/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:arshadid135@gmail.com">arshadid135@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Arshad9999?tab=repositories">Repositories</a>
 </p>
 
----
+## About
 
-### 👨‍💻 About Me
+I am pursuing an M.Tech in Computer Science and Engineering at the Centre for Advanced Studies, AKTU, following a B.Tech in Computer Science and Artificial Intelligence from Amity University.
 
-I'm pursuing an **M.Tech in Computer Science**, building on my B.Tech in Computer Science & Artificial Intelligence. I enjoy exploring how machine learning, cybersecurity and web technologies can solve practical problems.
+I work part-time as the sole web developer and digital operations specialist at [Zeva Makeup Studio](https://zeva-makeup-studio.github.io/) in Lucknow. I build and maintain service pages, client-enquiry forms and payment features, while also supporting local search, social channels and enquiry tracking.
 
-- 🔬 Exploring **privacy-conscious, on-device phishing detection** and applied machine learning.
-- 🛠️ Building and learning with **Python, React, Next.js and cloud tools**.
-- 🧭 Interested in **responsible AI, cybersecurity, DevOps and open-source collaboration**.
-- 🏆 **National finalist at Kavach 2023**, working with a team on mesh network app detection.
+My research explores applied machine learning for privacy-conscious security applications, with an interest in on-device phishing detection. I was a national finalist with a team at Kavach 2023, working on mesh-network app detection.
 
-### 🚀 Selected Work
+## Selected work
 
-| Project | What you'll find |
+| Project | What it is |
 | --- | --- |
-| [JaalNetra / HashItOut](https://github.com/Arshad9999/JaalNetra) | A team project website for a network-analysis concept, with project information and demo screenshots. |
-| [Pattern Recognition Study Guide](https://github.com/Arshad9999/pattern_recognition) | An educational site covering classifiers, clustering and dimensionality reduction, built with React and TypeScript. |
-| [Movie Browsing Learning Clone](https://github.com/Arshad9999/netflix2.0) | A forked React and Redux learning project with a movie catalog and Firebase sign-in screens. |
-| [Professional Portfolio](https://github.com/Arshad9999/arshad-professional) | My portfolio website, projects and professional information. |
+| [Study GATE Exam with Arshad](https://arshad9999.github.io/Study-Gate-Exam-with-Arshad/) | An independent GATE 2027 study companion for Computer Science and Data Analytics. [Repository](https://github.com/Arshad9999/Study-Gate-Exam-with-Arshad) |
+| [M.Tech CSE CAS Course Companion](https://arshad9999.github.io/MTech-Cse-CAS-Course/) | A four-semester study directory for Centre for Advanced Studies, AKTU M.Tech CSE learners. [Repository](https://github.com/Arshad9999/MTech-Cse-CAS-Course) |
+| [JaalNetra / HashItOut](https://github.com/Arshad9999/JaalNetra) | A team project site documenting a network-analysis concept, including project information and demo screenshots. |
+| [Pattern Recognition Study Guide](https://github.com/Arshad9999/pattern_recognition) | A React and TypeScript learning guide covering classifiers, clustering and dimensionality reduction. |
+| [Machine Learning Labs](https://github.com/Arshad9999/Machine-Learning) | Python exercises spanning regression, classification, clustering, gradient descent and neural-network forward propagation. |
 
-### 🧰 Tools & Interests
+## Technical focus
 
-**Languages:** Python · Java · JavaScript · TypeScript · SQL
+- **Languages:** Python, Java, JavaScript, TypeScript and SQL
+- **Data and ML:** NumPy, pandas, scikit-learn, TensorFlow and Tableau
+- **Web:** React, Redux, Next.js, REST APIs and Firebase Authentication
+- **Workflow:** Git, GitHub, Docker and Google Cloud
 
-**AI & Data:** NumPy · Pandas · scikit-learn · TensorFlow · PyTorch
+## Contact
 
-**Web Development:** React · Next.js · Node.js · Tailwind CSS · MongoDB
-
-**Cloud & Workflow:** Linux · Git · Docker · Kubernetes · Google Cloud · GitHub Actions
-
-<details>
-<summary><strong>📖 More About My Learning Journey</strong></summary>
-
-<br>
-
-I enjoy turning ideas into working projects, documenting what I learn and sharing technical knowledge with others. My interests span machine learning, full-stack development, cloud and DevOps, and cybersecurity.
-
-</details>
-
----
-
-<p align="center">
-  Open to conversations about <strong>AI, security, software development and collaboration</strong>.
-  <br>
-  <a href="mailto:arshadid135@gmail.com">📬 Get in touch</a>
-</p>
+For a collaboration, role or website project, email me at [arshadid135@gmail.com](mailto:arshadid135@gmail.com) or visit my [portfolio](https://arshad9999.github.io/my-portfolio-site/).
